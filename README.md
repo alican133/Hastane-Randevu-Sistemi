@@ -1,3 +1,8 @@
+Bu sistemde ilkim tc ve isim ile giriş yapmak gerekir . ondan sonra 3 farklı sekme karşımıza çıkar . İlkinde müsait bir doktor seçerek randevu alalbiliriz ve sistem bize müsait bir saat verir. İkinci sekmede ise ismini yazdığımız doktorun müsaitlik durumunu ve diğer bilgilerini görebiliriz. Son sekmede ise kendi bilgilerimizi ve randevu geçmişimizi görebiliriz
+
+
+
+
 ![image](https://github.com/alican133/Hastane-Randevu-Sistemi/assets/169036709/d47f2250-8dfa-4a5a-babf-fa66c940287e)
 
 
