@@ -1,4 +1,4 @@
-Bu sistemde ilkim tc ve isim ile giriş yapmak gerekir . ondan sonra 3 farklı sekme karşımıza çıkar . İlkinde müsait bir doktor seçerek randevu alalbiliriz ve sistem bize müsait bir saat verir. İkinci sekmede ise ismini yazdığımız doktorun müsaitlik durumunu ve diğer bilgilerini görebiliriz. Son sekmede ise kendi bilgilerimizi ve randevu geçmişimizi görebiliriz
+Bu sistemde ilkin tc ve isim ile giriş yapmak gerekir . ondan sonra 3 farklı sekme karşımıza çıkar . İlkinde müsait bir doktor seçerek randevu alalbiliriz ve sistem bize müsait bir saat verir. İkinci sekmede ise ismini yazdığımız doktorun müsaitlik durumunu ve diğer bilgilerini görebiliriz. Son sekmede ise kendi bilgilerimizi ve randevu geçmişimizi görebiliriz
 
 
 
